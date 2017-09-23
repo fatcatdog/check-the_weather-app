@@ -4,4 +4,5 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 cd weather
 
 > npm install
+
 > npm start
